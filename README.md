@@ -1,8 +1,10 @@
 # Weather-Reporting
-NodeJS Application
 Weather Reporting is a NodeJS application.
 
-Which reports the current temperature at a particular location when a location is provided.
-In case if there is no location provided by the user based on the IP address it locates the user and reports back the current temperature.
+This application provides current temperature at the user's location based on his IP address.
 
-Here I used the "ipinfo.io" API to get the current temperature based on the location
+It even provides the temperature at a different location with location passed by the user explicitly
+
+Here I used the "ipinfo.io" API to get the current location of the user by a ping to the server
+
+I used "openweathermap.org" API to get the current weather based on user's location
