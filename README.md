@@ -5,6 +5,6 @@ This application provides current temperature at the user's location based on hi
 
 Integrated 2 External API's into the application to report current weather at a desired location.
 
-***I used the "ipinfo.io" API to get the current location of the user by a ping to the server***
+***used "ipinfo.io" API to get the current user location based on the ping made to server***
 
-***I used "openweathermap.org" API to get the current weather based on user's location***
+***used "openweathermap.org" API to get the current weather based on user's location/user provided location***
