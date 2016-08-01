@@ -1,7 +1,7 @@
 # Weather-Reporting
 Weather Reporting is a NodeJS application.
 
-Here I integrated 2 API's into the application to report current weather at a desired location.
+Here I integrated 2 External API's into the application to report current weather at a desired location.
 
 This application provides current temperature at the user's location based on his IP address.
 
